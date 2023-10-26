@@ -55,7 +55,6 @@ class Formulario extends Component {
 
   handleSubmit = (event) => {
     event.preventDefault();
-    // Aquí puedes realizar acciones con los datos del formulario, como enviarlos a un servidor
   }
 
   render() {
